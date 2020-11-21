@@ -1,0 +1,10 @@
+1.  https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files
+2.  https://medium.com/@nmayurashok/file-and-folder-structure-for-web-development-8c5c83810a5
+        learn this:
+            HTML 5, CSS 3, JavaScript / jQuery, Bootstrap and SCSS
+                -   HTML 5: Its the Markup Language and builds up the main skeleton of the web page.
+                -   CSS 3: Cascading Style sheets help you to style the HTML.
+                -   JavaScript: This helps you add behavior and interactions to your website
+                        (Tip: If you are new to Web Development never skip or stop working on JavaScript always stick to it).
+                -   Bootstrap: Its a framework for developing responsive, mobile-first websites.
+                -   SCSS: SCSS or SASS is a CSS pre-processor and gives you extra functionalities to work with CSS.
