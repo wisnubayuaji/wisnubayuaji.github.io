@@ -1,3 +1,6 @@
 [submodule "First-HTML"]
 	path = First-HTML
 	url = https://github.com/wisnubayuaji/First-HTML
+[submodule "coding-project/First-HTML"]
+	path = coding-project/First-HTML
+	url = https://github.com/wisnubayuaji/First-HTML

@@ -9,3 +9,5 @@
                 -   Bootstrap: Its a framework for developing responsive, mobile-first websites.
                 -   SCSS: SCSS or SASS is a CSS pre-processor and gives you extra functionalities to work with CSS.
 3.  https://workshops.hackclub.com/personal_website/
+4.  Hosting Multiple Repositories With GitHub Page
+	https://gist.github.com/kevincolten/315e27402f97a66def62
