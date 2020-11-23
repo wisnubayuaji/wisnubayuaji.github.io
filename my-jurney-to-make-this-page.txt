@@ -8,3 +8,4 @@
                         (Tip: If you are new to Web Development never skip or stop working on JavaScript always stick to it).
                 -   Bootstrap: Its a framework for developing responsive, mobile-first websites.
                 -   SCSS: SCSS or SASS is a CSS pre-processor and gives you extra functionalities to work with CSS.
+3.  https://workshops.hackclub.com/personal_website/
