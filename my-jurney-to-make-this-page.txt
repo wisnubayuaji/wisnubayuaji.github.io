@@ -1,5 +1,5 @@
-1.  https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files
-2.  https://medium.com/@nmayurashok/file-and-folder-structure-for-web-development-8c5c83810a5
+-  https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files
+-  https://medium.com/@nmayurashok/file-and-folder-structure-for-web-development-8c5c83810a5
         learn this:
             HTML 5, CSS 3, JavaScript / jQuery, Bootstrap and SCSS
                 -   HTML 5: Its the Markup Language and builds up the main skeleton of the web page.
@@ -8,6 +8,7 @@
                         (Tip: If you are new to Web Development never skip or stop working on JavaScript always stick to it).
                 -   Bootstrap: Its a framework for developing responsive, mobile-first websites.
                 -   SCSS: SCSS or SASS is a CSS pre-processor and gives you extra functionalities to work with CSS.
-3.  https://workshops.hackclub.com/personal_website/
-4.  Hosting Multiple Repositories With GitHub Page
+-  https://workshops.hackclub.com/personal_website/
+-  Hosting Multiple Repositories With GitHub Page
 	https://gist.github.com/kevincolten/315e27402f97a66def62
+-  https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer
