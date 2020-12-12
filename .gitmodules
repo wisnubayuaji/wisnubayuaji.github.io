@@ -4,3 +4,6 @@
 [submodule "coding-project/First-HTML"]
 	path = coding-project/First-HTML
 	url = https://github.com/wisnubayuaji/First-HTML
+[submodule "coding-project/structuring-a-page-of-content"]
+	path = coding-project/structuring-a-page-of-content
+	url = https://github.com/wisnubayuaji/structuring-a-page-of-content
