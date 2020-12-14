@@ -7,3 +7,6 @@
 [submodule "coding-project/structuring-a-page-of-content"]
 	path = coding-project/structuring-a-page-of-content
 	url = https://github.com/wisnubayuaji/structuring-a-page-of-content
+[submodule "coding-project/find-bigfoot"]
+	path = coding-project/find-bigfoot
+	url = https://github.com/wisnubayuaji/find-bigfoot/
