@@ -10,3 +10,6 @@
 [submodule "coding-project/find-bigfoot"]
 	path = coding-project/find-bigfoot
 	url = https://github.com/wisnubayuaji/find-bigfoot/
+[submodule "coding-project/SplatterPaint"]
+	path = coding-project/SplatterPaint
+	url = https://github.com/wisnubayuaji/SplatterPaint
