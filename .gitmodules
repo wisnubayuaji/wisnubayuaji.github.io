@@ -13,3 +13,6 @@
 [submodule "coding-project/SplatterPaint"]
 	path = coding-project/SplatterPaint
 	url = https://github.com/wisnubayuaji/SplatterPaint
+[submodule "coding-project/test-web-private"]
+	path = coding-project/test-web-private
+	url = https://github.com/wisnubayuaji/test-web-private
