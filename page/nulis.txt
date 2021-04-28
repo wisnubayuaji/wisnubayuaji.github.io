@@ -1,0 +1,53 @@
+<h1>3/31/2021 - First Journal</h1>
+<p>
+    this is my first time made a journal<br>
+    hmmm sebenarnya bukan yg pertama sih, tapi ini yg pertama di post<br>
+    rencananya bakal mau di isi dengan kejadian menarik yg telah di alami atau cerita tentang achievement yang di
+    dapat mulai dari short term atau long term goal<br>
+    dan juga mungkin bakal menshare hal yang sedang, atau yg sudah selesai dibuat. kaya projek kecil-kecilan dan
+    semacamnya<br>
+    <br>
+    kenapa buat beginian? mungkin biar nge motivasi i guess, nge motivasi biar lebih produktif. juga biar semuanya lebih
+    tercatat<br>
+    sama sekalian belajar bikin web<br>
+</p>
+<hr>
+<hr>
+<p>hari ini beres ngikutin tutorial beginner level 1 blender dari youtube channel blender guru</p>
+<a
+    href="https://lh3.googleusercontent.com/ZBD590abRgtIABEHpUzUoqMjKb2gdVfiHtFnQzyuHrdNc5tqEZgeXYGw1RgM82UZ-bbVLI9RtkOr4ZCaJALjDGgOTQhpYWM_RtYElr47iCEe4kZCqgN3-KLaxNz8Jqt84Q8XANXCDOs=w2400?source=screenshot.guru">
+    <img
+        src="https://lh3.googleusercontent.com/ZBD590abRgtIABEHpUzUoqMjKb2gdVfiHtFnQzyuHrdNc5tqEZgeXYGw1RgM82UZ-bbVLI9RtkOr4ZCaJALjDGgOTQhpYWM_RtYElr47iCEe4kZCqgN3-KLaxNz8Jqt84Q8XANXCDOs=w600-h315-p-k" />
+</a>
+<a
+    href="https://lh3.googleusercontent.com/LaDsIzoeI9z4Ra9EhhZWGHb4UrM4SYybytjuZygcTQzhg0f1HyrCpX_2twe1lobsiSLlV7yZFk1rwEFqmBf-f-XgPxnkOmjjSmV3tPA-gs8JOUkndQqLUr3NfsD5VhwNzKYMDbroCOo=w2400?source=screenshot.guru">
+    <img
+        src="https://lh3.googleusercontent.com/LaDsIzoeI9z4Ra9EhhZWGHb4UrM4SYybytjuZygcTQzhg0f1HyrCpX_2twe1lobsiSLlV7yZFk1rwEFqmBf-f-XgPxnkOmjjSmV3tPA-gs8JOUkndQqLUr3NfsD5VhwNzKYMDbroCOo=w600-h315-p-k" />
+</a>
+<a
+    href="https://lh3.googleusercontent.com/YTa_vdDiRIEZvukjPJ_nC_faN5OmP38LStoeSa_QbDPr6zUppI07kQKwjCOWJjfSqHTLSa2QDNpP6gn90dP_RgTktHpXVeu_guRkmlIO0K40ogPZf8WNZRCsFaFFxUO_IuxMWkiN4w8=w2400?source=screenshot.guru">
+    <img
+        src="https://lh3.googleusercontent.com/YTa_vdDiRIEZvukjPJ_nC_faN5OmP38LStoeSa_QbDPr6zUppI07kQKwjCOWJjfSqHTLSa2QDNpP6gn90dP_RgTktHpXVeu_guRkmlIO0K40ogPZf8WNZRCsFaFFxUO_IuxMWkiN4w8=w600-h315-p-k" />
+</a>
+<a
+    href="https://lh3.googleusercontent.com/IvammEunaODsjjT1N7XTkRoO-6ydrIpf3kWPLuzNumaepkjPT7lCRWmYqfvfAcKH-GDCkSwIuhTLFgZb5IbKvbamKcOCF-NdNRoYwvbsj1gw0WCLYtPaIJCRR_FYpmuZEq4LfvsBgnU=w2400?source=screenshot.guru">
+    <img
+        src="https://lh3.googleusercontent.com/IvammEunaODsjjT1N7XTkRoO-6ydrIpf3kWPLuzNumaepkjPT7lCRWmYqfvfAcKH-GDCkSwIuhTLFgZb5IbKvbamKcOCF-NdNRoYwvbsj1gw0WCLYtPaIJCRR_FYpmuZEq4LfvsBgnU=w600-h315-p-k" />
+</a>
+<p>otw level 2</p>
+<hr>
+<hr>
+- https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/Dealing_with_files
+- https://medium.com/@nmayurashok/file-and-folder-structure-for-web-development-8c5c83810a5
+learn this:
+HTML 5, CSS 3, JavaScript / jQuery, Bootstrap and SCSS
+- HTML 5: Its the Markup Language and builds up the main skeleton of the web page.
+- CSS 3: Cascading Style sheets help you to style the HTML.
+- JavaScript: This helps you add behavior and interactions to your website
+(Tip: If you are new to Web Development never skip or stop working on JavaScript always stick to it).
+- Bootstrap: Its a framework for developing responsive, mobile-first websites.
+- SCSS: SCSS or SASS is a CSS pre-processor and gives you extra functionalities to work with CSS.
+- https://workshops.hackclub.com/personal_website/
+- Hosting Multiple Repositories With GitHub Page
+https://gist.github.com/kevincolten/315e27402f97a66def62
+- https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer
